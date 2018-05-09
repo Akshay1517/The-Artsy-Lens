@@ -1,0 +1,65 @@
+  
+	 	.con
+	 	   {
+	 	   	background-color: ;
+	 	   	height: 450px;width: 310px;
+	 	   	float: left;
+	 	   	margin: 8px;
+	 	   	border: ;
+	 	   }
+
+
+	 	  #i1{
+	 	  	height: 300px;
+	 	  	width: 300px;
+	 	  	border: 2px solid gray;
+	 	  }
+	 	 #i2
+	 	 {
+	 	 	color: #EC7B12  ;
+	 	 } 
+
+	 	 #i3{
+	 	 	color: black ;
+	 	 }
+
+	 	 #i4
+	 	 {
+	 	 	padding: 10px;
+	 	 	text-decoration: none;
+	 	 	color: #73765E  ;
+	 	 	color: white;
+	 	 } 
+
+
+
+	 	  #round{
+	 	  	border-radius: 50%;
+	 	  	height: 300px;
+	 	  	width: 300px;
+	 	  	border: 2px solid black;
+	 	  }
+
+	 	  #h1
+	 	  {
+	 	  	width: 100px
+	 	  }
+
+	 	  #h1:hover{
+	 	  	width: 200px;
+	 	  	transition: 2s width
+	 	  }
+
+	 	  
+ /* nav */
+
+               nav{width: 100%; height:80px;  position: fixed;
+                 top:0; }
+
+               nav ul{ float:right; margin:30px }
+
+               nav ul li{list-style-type:none; display:inline-block;}
+
+               nav ul li a:hover{ transition:0.8s all;padding-top: 5px;padding-bottom: 5px}
+
+               nav ul li a{text-decoration:none;  color:white; padding:30px}
